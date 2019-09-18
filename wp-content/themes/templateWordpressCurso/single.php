@@ -75,7 +75,7 @@
 							<div class="card mb-0 border-0">
 							  <div class="row no-gutters">
 							    <div class="col-md-4 d-md-block d-none">
-							      <img src="<?php the_post_thumbnail('post-thumbnail', array('class' => 'img-fluid'));?>">
+							      <img src="<?php the_post_thumbnail('post-thumbnail', array('class' => 'img-fluid'));?>
 							    </div>
 							    <div class="col-md-8">
 							      <div class="card-body pt-lg-1 pt-sm-3">
