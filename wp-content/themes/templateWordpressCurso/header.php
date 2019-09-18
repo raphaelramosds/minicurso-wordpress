@@ -41,7 +41,7 @@
 		  <div class="collapse navbar-collapse m-3" id="navbarTogglerDemo03">
 		    <ul class="navbar-nav mr-auto mt-2 mt-lg-0 mx-auto">
 		      <li class="nav-item active">
-		        <a class="nav-link" href="#">Início<span class="sr-only">(Página atual)</span></a>
+		        <a class="nav-link" href="<?php bloginfo('url')?>">Início<span class="sr-only">(Página atual)</span></a>
 		      </li>
 		      <li class="nav-item">
 		        <a class="nav-link" href="conheca-nos.html">Conheça-nos</a>
